@@ -7,6 +7,5 @@
  {"idToken" : 6, "addressToken" : "0", "symbolToken" : "EVER"},
  {"idToken" : 7, "addressToken" : "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2", "symbolToken" : "QUBE"},
  {"idToken" : 8, "addressToken" : "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1", "symbolToken" : "BRIDGE"},
- {"idToken" : 9, "addressToken" : "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4", "symbolToken" : "EVA"},
- {"idToken" : 10, "addressToken" : "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1", "symbolToken" : "ADA"}
+ {"idToken" : 9, "addressToken" : "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4", "symbolToken" : "EVA"}
 ]
