@@ -1,12 +1,12 @@
 [
- {"idToken" : "1", "addressToken" : "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf", "symbolToken" : "BTC"},
- {"idToken" : "2", "addressToken" : "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d", "symbolToken" : "ETH"},
- {"idToken" : "3", "addressToken" : "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2", "symbolToken" : "USDT"},
- {"idToken" : "4", "addressToken" : "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9", "symbolToken" : "DAI"},
- {"idToken" : "5", "addressToken" : "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023", "symbolToken" : "SOON"},
- {"idToken" : "6", "addressToken" : "0", "symbolToken" : "EVER"},
- {"idToken" : "7", "addressToken" : "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2", "symbolToken" : "QUBE"},
- {"idToken" : "8", "addressToken" : "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1", "symbolToken" : "BRIDGE"},
- {"idToken" : "9", "addressToken" : "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4", "symbolToken" : "EVA"},
- {"idToken" : "10", "addressToken" : "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1", "symbolToken" : "ADA"}
+ {"idToken" : 1, "addressToken" : "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf", "symbolToken" : "BTC"},
+ {"idToken" : 2, "addressToken" : "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d", "symbolToken" : "ETH"},
+ {"idToken" : 3, "addressToken" : "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2", "symbolToken" : "USDT"},
+ {"idToken" : 4, "addressToken" : "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9", "symbolToken" : "DAI"},
+ {"idToken" : 5, "addressToken" : "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023", "symbolToken" : "SOON"},
+ {"idToken" : 6, "addressToken" : "0", "symbolToken" : "EVER"},
+ {"idToken" : 7, "addressToken" : "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2", "symbolToken" : "QUBE"},
+ {"idToken" : 8, "addressToken" : "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1", "symbolToken" : "BRIDGE"},
+ {"idToken" : 9, "addressToken" : "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4", "symbolToken" : "EVA"},
+ {"idToken" : 10, "addressToken" : "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1", "symbolToken" : "ADA"}
 ]
