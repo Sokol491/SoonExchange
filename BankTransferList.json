@@ -1,5 +1,5 @@
 [
- "Russian" : [
+ "Russian" : {
     {"id":1, "name":"VTB"},
     {"id":2, "name":"Sberbank"},
     {"id":3, "name":"Alfa-Bank"},
@@ -10,11 +10,11 @@
     {"id":8, "name":"ПромСвязьБанк"},
     {"id":9, "name":"ЮниКредит Банк"},
     {"id":10, "name":"МТС Банк"}
-  ],
- "USA" : [
+ },
+ "USA" : {
     {"id":1, "name":"VTB"},
     {"id":2, "name":"Sberbank"},
     {"id":3, "name":"Alfa-bank"},
     {"id":4, "name":"Gazprombank"}
-  ]
+ }
 ]
