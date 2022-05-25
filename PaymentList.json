@@ -1,0 +1,23 @@
+[
+  {"id":1,"name":"Advcash"},
+  {"id":2,"name":"Payeer"},
+  {"id":3,"name":"QIWI"},
+  {"id":4,"name":"ЮMoney"},
+  {"id":5,"name":"WebMoney"},
+  {"id":6,"name":"ePayments"},
+  {"id":7,"name":"PayPal"},
+  {"id":8,"name":"Payoneer"},
+  {"id":9,"name":"Perfect Money"},
+  {"id":10,"name":"KWT (DeBot)"},
+  {"id":11,"name":"Garantex.io (Exch)"},
+  {"id":12,"name":"WeChat"},
+  {"id":13,"name":"AliPay"},
+  {"id":14,"name":"WePay"},
+  {"id":15,"name":"Phonepay (IND)"},
+  {"id":16,"name":"PayTM (IND)"},
+  {"id":17,"name":"Neteller"},
+  {"id":18,"name":"Skrill"},
+  {"id":19,"name":"Oson (UZ)"},
+  {"id":20,"name":"PayMe (UZ)"},
+  {"id":21,"name":"Click (UZ)"}
+]
