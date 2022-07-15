@@ -1,24 +1,52 @@
 {
- "Russian" : {
-  "RUB": [
-   {"id":1, "name":"VTB"},
-   {"id":2, "name":"Sberbank"},
-   {"id":3, "name":"Alfa-Bank"},
-   {"id":4, "name":"Газпром Банк"},
-   {"id":5, "name":"Tinkoff Bank"},
-   {"id":6, "name":"Почта Bank"},
-   {"id":7, "name":"Открытие"},
-   {"id":8, "name":"ПромСвязьБанк"},
-   {"id":9, "name":"ЮниКредит Банк"},
-   {"id":10, "name":"МТС Банк"}
-  ]
- },
- "USA" : {
-  "USD": [
-   {"id":1, "name":"VTB"},
-   {"id":2, "name":"Sberbank"},
-   {"id":3, "name":"Alfa-bank"},
-   {"id":4, "name":"Gazprombank"}
-   ]
-  }
+    "Russian": {
+        "RUB": {
+            "1": {
+                "name": "ВТБ"
+            },
+            "2": {
+                "name": "СберБанк"
+            },
+            "3": {
+                "name": "Альфа Банк"
+            },
+            "4": {
+                "name": "Газпром Банк"
+            },
+            "5": {
+                "name": "Tinkoff Bank"
+            },
+            "6": {
+                "name": "Почта Банк"
+            },
+            "7": {
+                "name": "Открытие"
+            },
+            "8": {
+                "name": "ПромСвязьБанк"
+            },
+            "9": {
+                "name": "ЮниКредит Банк"
+            },
+            "10": {
+                "name": "МТС Банк"
+            }
+        }
+    },
+    "USA": {
+        "USD": {
+            "1": {
+                "name": "VTB"
+            },
+            "2": {
+                "name": "Sberbank"
+            },
+            "3": {
+                "name": "Alfa-bank"
+            },
+            "4": {
+                "name": "Gazprombank"
+            }
+        }
+    }
 }
