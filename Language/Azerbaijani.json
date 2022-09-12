@@ -1,1 +1,209 @@
-
+{
+    "Wallet": {
+        "Wallet": "Cüzdan"
+    },
+    "Account": {
+        "Account": "Hesab"
+    },
+    "Settings": {
+        "Settings": "Kökləmələr"
+    },
+    "Exchange": {
+        "Exchange": "Bursa"
+    },
+    "Deposit": {
+        "Deposit": "Pul qoy"
+    },
+    "Withdraw": {
+        "Withdraw": "Pul çıxart"
+    },
+    "Check": {
+        "Check": "Yoxla"
+    },
+    "Send": {
+        "Send": "Göndər"
+    },
+    "blocked ": {
+        "blocked": "bloklandı"
+    },
+    "Nickname": {
+        "Nickname": "Adı"
+    },
+    "Rating": {
+        "Rating": "Səviyyəsi"
+    },
+    "Reviews": {
+        "Reviews": "Rəy"
+    },
+    "Successful deals": {
+        "Successful deals": "Uğurlu"
+    },
+    "Canceled deals": {
+        "Canceled deals": "Ləğv olunmuş"
+    },
+    "Defeat in disputes": {
+        "Defeat in disputes": "Mühakimədə uduzdu"
+    },
+    "Blocked by other users": {
+        "Blocked by other users": "İstifadəçi tərəfindən bloklu"
+    },
+    "Registration date": {
+        "Registration date": "Qeydiyyat tarihi"
+    },
+    "Language": {
+        "Language": "Dil"
+    },
+    "Tags": {
+        "Tags": "Yarlıqlar"
+    },
+    "Referal": {
+        "Referal": "Dəvətli"
+    },
+    "Back": {
+        "Back": "Geri"
+    },
+    "Number of your referrals": {
+        "Number of your referrals": "Dəvətlilərinizin sayısı"
+    },
+    "Your referral link": {
+        "Your referral link": "Dəvət keçidiniz"
+    },
+    "You don't have a referrer": {
+        "You don't have a referrer": "Dəvətliniz yoxdur"
+    },
+    "Favorites": {
+        "Favorites": "Sevimlilər"
+    },
+    "Tokens": {
+        "Tokens": "Token"
+    },
+    "Offers": {
+        "Offers": "Elanlar"
+    },
+    "Users": {
+        "Users": "İstifadəçilər"
+    },
+    "Select the token to withdraw.": {
+        "Select the token to withdraw": "Çıxardacaq tokeni seçin"
+    },
+    "Enter the number of tokens to withdraw": {
+        "Enter the number of tokens to withdraw": "Çıxardacaq token sayısını yazın"
+    },
+    "Your balance": {
+        "Your balance": "Balansınız"
+    },
+    "Enter the recipient's ID": {
+        "Enter the recipient's ID": "Alıcı ID-sini yazın"
+    },
+    "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": {
+        "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": "Burada insanlarla əməliyyatlar edə bilərsiniz. Bot əməliyyat zamanı təhlükəsizliyin təminatçısı olacaq"
+    },
+    "Buy": {
+        "Buy": "Al"
+    },
+    "Sell": {
+        "Sell": "Sat"
+    },
+    "My offers": {
+        "My offers": "Elanlarım"
+    },
+    "My deals": {
+        "My deals": "Dəyişmələrim"
+    },
+    "My transactions": {
+        "My transactions": "Əməliyyatlarım"
+    },
+    "Bank transfer": {
+        "Bank transfer": "Bank göndərişi"
+    },
+    "Cryptocurrency": {
+        "Cryptocurrency": "Kriptovalyuta"
+    },
+    "Electronic money": {
+        "Electronic money": "Elektron pul"
+    },
+    "Select your country": {
+        "Select your country": "Ölkənizi seçin"
+    },
+    "You don't have any valid deals": {
+        "You don't have any valid deals": "Hələ uğurlu dəyişmələriniz olmayıb"
+    },
+    "Offer": {
+        "Offer": "Elan"
+    },
+    "price": {
+        "price": "Qiymət"
+    },
+    "Contact": {
+        "Contact": "Əlaqə"
+    },
+    "Start the exchange": {
+        "Start the exchange": "Kripto dəyişməyə başla"
+    },
+    "Delete": {
+        "Delete": "Sil"
+    },
+    "Date": {
+        "Date": "Tarih"
+    },
+    "Hi": {
+        "Hi": "Salam"
+    },
+    "Welcome": {
+        "Welcome": "Xoş gəldiniz"
+    },
+    "Push notification": {
+        "Push notification": "Bildirişlər"
+    },
+    "Registration": {
+        "Registration": "Qeydiyyat"
+    },
+    "You don't have any tokens to withdraw": {
+        "You don't have any tokens to withdraw": "Çıxartmaq üçün tokeniniz yoxdur"
+    },
+    "You have already registered a nickname. You can't change your nickname!": {
+        "You have already registered a nickname. You can't change your nickname!": "Sizin artıq ad seçtiniz. Adı dəyişdirmək olmaz!"
+    },
+    "Come up with your nickname. From 3 to 15 characters.": {
+        "Come up with your nickname. From 3 to 15 characters": "Adınızı yazın. 3-15 simvol olmalıdır."
+    },
+    "You don't have any tokens to sell": {
+        "You don't have any tokens to sell": "Satmaq üçün tokeniniz yoxdur"
+    },
+    "You don't have any offers": {
+        "You don't have any offers": "Hələ elanlarınız yoxdur"
+    },
+    "You don't have any transactions": {
+        "You don't have any transactions": "Hələ əməliyyatlarınız yoxdur"
+    },
+    "Your referrer": {
+        "Your referrer": "Sizi dəvət edən"
+    },
+    "Enter the number of tokens you want to send to the user": {
+        "Enter the number of tokens you want to send to the user": "İstifadəçiyə göndərmək istədiyiniz tokenlərin sayını yazın"
+    },
+    "You don't have any tokens to send": {
+        "You don't have any tokens to send": "Göndərmək üçün tokeniniz yoxdur"
+    },
+    "This nickname already exists. Select a new nickname.": {
+        "This nickname already exists. Select a new nickname.": "Belə bir ad artıq var. Başqa bir ad seçin."
+    },
+    "Select the token to send": {
+        "Select the token to send": "Göndəriləcək tokeni seçin"
+    },
+    "The entered value is not a number": {
+        "The entered value is not a number": "Yazdığınız rəqəm deyil"
+    },
+    "There are not enough funds on your balance": {
+        "There are not enough funds on your balance": "Balansınızda kifayət qədər vəsait yoxdur"
+    },
+    "You cannot send tokens to yourself": {
+        "You cannot send tokens to yourself": "Özünüzə token göndərə bilməzsiniz"
+    },
+    "Registering a nickname": {
+        "Registering a nickname": "Ad qeydiyyatı"
+    },
+    "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": {
+        "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": "Everscale şəbəkəsində token dəyişdiricisi olan E-NOT Bursa botu Sizi qarşılayır.\nBot İctimai betadadır."
+    }
+}
