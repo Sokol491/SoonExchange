@@ -83,9 +83,6 @@
     "Users": {
         "Users": "Kullanıcılar"
     },
-    "Select the token to withdraw.": {
-        "Select the token to withdraw": "Çekmek için token seç"
-    },
     "Enter the number of tokens to withdraw": {
         "Enter the number of tokens to withdraw": "Çekmek için miktar gir"
     },
@@ -208,5 +205,8 @@
     },
     "Add a new translation": {
         "Add a new translation": "Yeni bir çeviri ekle"
+    },
+    "Select the token to withdraw": {
+        "Select the token to withdraw": "Çekmek için token seç"
     }
 }
