@@ -205,5 +205,8 @@
     },
     "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": {
         "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": "Everscale ağındaki bir token değiştirici olan E-NOT borsa gibi bir bot tarafından karşılanıyorsunuz.\nBot, Genel beta sürümündedir."
+    },
+    "Add a new translation": {
+        "Add a new translation": "Yeni bir çeviri ekle"
     }
 }
