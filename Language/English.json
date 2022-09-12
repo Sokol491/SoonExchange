@@ -1,1 +1,209 @@
-
+{
+    "Wallet": {
+        "Wallet": "Wallet"
+    },
+    "Account": {
+        "Account": "Account"
+    },
+    "Settings": {
+        "Settings": "Settings"
+    },
+    "Exchange": {
+        "Exchange": "Exchange"
+    },
+    "Deposit": {
+        "Deposit": "Deposit"
+    },
+    "Withdraw": {
+        "Withdraw": "Withdraw"
+    },
+    "Check": {
+        "Check": "Check"
+    },
+    "Send": {
+        "Send": "Send"
+    },
+    "blocked ": {
+        "blocked": "blocked"
+    },
+    "Nickname": {
+        "Nickname": "Nickname"
+    },
+    "Rating": {
+        "Rating": "Rating"
+    },
+    "Reviews": {
+        "Reviews": "Reviews"
+    },
+    "Successful deals": {
+        "Successful deals": "Successful deals"
+    },
+    "Canceled deals": {
+        "Canceled deals": "Canceled deals"
+    },
+    "Defeat in disputes": {
+        "Defeat in disputes": "Defeat in disputes"
+    },
+    "Blocked by other users": {
+        "Blocked by other users": "Blocked by other users"
+    },
+    "Registration date": {
+        "Registration date": "Registration date"
+    },
+    "Language": {
+        "Language": "Language"
+    },
+    "Tags": {
+        "Tags": "Tags"
+    },
+    "Referal": {
+        "Referal": "Referal"
+    },
+    "Back": {
+        "Back": "Back"
+    },
+    "Number of your referrals": {
+        "Number of your referrals": "Number of your referrals"
+    },
+    "Your referral link": {
+        "Your referral link": "Your referral link"
+    },
+    "You don't have a referrer": {
+        "You don't have a referrer": "You don't have a referrer"
+    },
+    "Favorites": {
+        "Favorites": "Favorites"
+    },
+    "Tokens": {
+        "Tokens": "Tokens"
+    },
+    "Offers": {
+        "Offers": "Offers"
+    },
+    "Users": {
+        "Users": "Users"
+    },
+    "Select the token to withdraw.": {
+        "Select the token to withdraw": "Select the token to withdraw"
+    },
+    "Enter the number of tokens to withdraw": {
+        "Enter the number of tokens to withdraw": "Enter the number of tokens to withdraw"
+    },
+    "Your balance": {
+        "Your balance": "Your balance"
+    },
+    "Enter the recipient's ID": {
+        "Enter the recipient's ID": "Enter the recipient's ID"
+    },
+    "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": {
+        "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction"
+    },
+    "Buy": {
+        "Buy": "Buy"
+    },
+    "Sell": {
+        "Sell": "Sell"
+    },
+    "My offers": {
+        "My offers": "My offers"
+    },
+    "My deals": {
+        "My deals": "My deals"
+    },
+    "My transactions": {
+        "My transactions": "My transactions"
+    },
+    "Bank transfer": {
+        "Bank transfer": "Bank transfer"
+    },
+    "Cryptocurrency": {
+        "Cryptocurrency": "Cryptocurrency"
+    },
+    "Electronic money": {
+        "Electronic money": "Electronic money"
+    },
+    "Select your country": {
+        "Select your country": "Select your country"
+    },
+    "You don't have any valid deals": {
+        "You don't have any valid deals": "You don't have any valid deals"
+    },
+    "Offer": {
+        "Offer": "Offer"
+    },
+    "price": {
+        "price": "price"
+    },
+    "Contact": {
+        "Contact": "Contact"
+    },
+    "Start the exchange": {
+        "Start the exchange": "Start the exchange"
+    },
+    "Delete": {
+        "Delete": "Delete"
+    },
+    "Date": {
+        "Date": "Date"
+    },
+    "Hi": {
+        "Hi": "Hi"
+    },
+    "Welcome": {
+        "Welcome": "Welcome"
+    },
+    "Push notification": {
+        "Push notification": "Push notification"
+    },
+    "Registration": {
+        "Registration": "Registration"
+    },
+    "You don't have any tokens to withdraw": {
+        "You don't have any tokens to withdraw": "You don't have any tokens to withdraw"
+    },
+    "You have already registered a nickname. You can't change your nickname!": {
+        "You have already registered a nickname. You can't change your nickname!": "You have already registered a nickname. You can't change your nickname!"
+    },
+    "Come up with your nickname. From 3 to 15 characters.": {
+        "Come up with your nickname. From 3 to 15 characters": "Come up with your nickname. From 3 to 15 characters."
+    },
+    "You don't have any tokens to sell": {
+        "You don't have any tokens to sell": "You don't have any tokens to sell"
+    },
+    "You don't have any offers": {
+        "You don't have any offers": "You don't have any offers"
+    },
+    "You don't have any transactions": {
+        "You don't have any transactions": "You don't have any transactions"
+    },
+    "Your referrer": {
+        "Your referrer": "Your referrer"
+    },
+    "Enter the number of tokens you want to send to the user": {
+        "Enter the number of tokens you want to send to the user": "Enter the number of tokens you want to send to the user"
+    },
+    "You don't have any tokens to send": {
+        "You don't have any tokens to send": "You don't have any tokens to send"
+    },
+    "This nickname already exists. Select a new nickname.": {
+        "This nickname already exists. Select a new nickname.": "This nickname already exists. Select a new nickname."
+    },
+    "Select the token to send": {
+        "Select the token to send": "Select the token to send"
+    },
+    "The entered value is not a number": {
+        "The entered value is not a number": "The entered value is not a number"
+    },
+    "There are not enough funds on your balance": {
+        "There are not enough funds on your balance": "There are not enough funds on your balance"
+    },
+    "You cannot send tokens to yourself": {
+        "You cannot send tokens to yourself": "You cannot send tokens to yourself"
+    },
+    "Registering a nickname": {
+        "Registering a nickname": "Registering a nickname"
+    },
+    "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": {
+        "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network.\nThe bot is in Public beta."
+    }
+}
