@@ -1,209 +1,209 @@
 {
     "Wallet": {
-        "Wallet": "Cüzdan"
+        "Wallet": "Кошелек"
     },
     "Account": {
-        "Account": "Hesab"
+        "Account": "Акаунт"
     },
     "Settings": {
-        "Settings": "Kökləmələr"
+        "Settings": "Настройки"
     },
     "Exchange": {
-        "Exchange": "Bursa"
+        "Exchange": "Обмен"
     },
     "Deposit": {
-        "Deposit": "Pul qoy"
+        "Deposit": "Пополнить"
     },
     "Withdraw": {
-        "Withdraw": "Pul çıxart"
+        "Withdraw": "Вывести"
     },
     "Check": {
-        "Check": "Yoxla"
+        "Check": "Чек"
     },
     "Send": {
-        "Send": "Göndər"
+        "Send": "Отправить"
     },
     "blocked ": {
-        "blocked": "bloklandı"
+        "blocked": "заблокировано"
     },
     "Nickname": {
-        "Nickname": "Adı"
+        "Nickname": "Ник"
     },
     "Rating": {
-        "Rating": "Səviyyəsi"
+        "Rating": "Рейтинг"
     },
     "Reviews": {
-        "Reviews": "Rəy"
+        "Reviews": "Отзывы"
     },
     "Successful deals": {
-        "Successful deals": "Uğurlu"
+        "Successful deals": "Сделок завершено"
     },
     "Canceled deals": {
-        "Canceled deals": "Ləğv olunmuş"
+        "Canceled deals": "Сделок отменено"
     },
     "Defeat in disputes": {
-        "Defeat in disputes": "Mühakimədə uduzdu"
+        "Defeat in disputes": "Споров проиграно"
     },
     "Blocked by other users": {
-        "Blocked by other users": "İstifadəçi tərəfindən bloklu"
+        "Blocked by other users": "Заблокирован другими пользователями"
     },
     "Registration date": {
-        "Registration date": "Qeydiyyat tarihi"
+        "Registration date": "Дата регистрации"
     },
     "Language": {
-        "Language": "Dil"
+        "Language": "Язык"
     },
     "Tags": {
-        "Tags": "Yarlıqlar"
+        "Tags": "Теги"
     },
     "Referal": {
-        "Referal": "Dəvətli"
+        "Referal": "Реферал"
     },
     "Back": {
-        "Back": "Geri"
+        "Back": "Назад"
     },
     "Number of your referrals": {
-        "Number of your referrals": "Dəvətlilərinizin sayısı"
+        "Number of your referrals": "Количество ваших рефералов"
     },
     "Your referral link": {
-        "Your referral link": "Dəvət keçidiniz"
+        "Your referral link": "Ваша реферальная ссылка"
     },
     "You don't have a referrer": {
-        "You don't have a referrer": "Dəvətliniz yoxdur"
+        "You don't have a referrer": "У вас нет реферера"
     },
     "Favorites": {
-        "Favorites": "Sevimlilər"
+        "Favorites": "Избранное"
     },
     "Tokens": {
-        "Tokens": "Token"
+        "Tokens": "Токены"
     },
     "Offers": {
-        "Offers": "Elanlar"
+        "Offers": "Предложения"
     },
     "Users": {
-        "Users": "İstifadəçilər"
+        "Users": "Пользователи"
     },
     "Select the token to withdraw.": {
-        "Select the token to withdraw": "Çıxardacaq tokeni seçin"
+        "Select the token to withdraw": "Выберите токен для вывода"
     },
     "Enter the number of tokens to withdraw": {
-        "Enter the number of tokens to withdraw": "Çıxardacaq token sayısını yazın"
+        "Enter the number of tokens to withdraw": "Введите количество токенов для вывода"
     },
     "Your balance": {
-        "Your balance": "Balansınız"
+        "Your balance": "Ваш баланс"
     },
     "Enter the recipient's ID": {
-        "Enter the recipient's ID": "Alıcı ID-sini yazın"
+        "Enter the recipient's ID": "Введите ID получателя"
     },
     "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": {
-        "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": "Burada insanlarla əməliyyatlar edə bilərsiniz. Bot əməliyyat zamanı təhlükəsizliyin təminatçısı olacaq"
+        "Here You make transactions with people, and the bot acts as a guarantor of security during the transaction": "Здесь Вы совершаете сделки с людьми, а бот выступает гарантом безопасности при проведении сделки"
     },
     "Buy": {
-        "Buy": "Al"
+        "Buy": "Купить"
     },
     "Sell": {
-        "Sell": "Sat"
+        "Sell": "Продать"
     },
     "My offers": {
-        "My offers": "Elanlarım"
+        "My offers": "Мои предложения"
     },
     "My deals": {
-        "My deals": "Dəyişmələrim"
+        "My deals": "Мои сделки"
     },
     "My transactions": {
-        "My transactions": "Əməliyyatlarım"
+        "My transactions": "Мои транзакции"
     },
     "Bank transfer": {
-        "Bank transfer": "Bank göndərişi"
+        "Bank transfer": "Банковский перевод"
     },
     "Cryptocurrency": {
-        "Cryptocurrency": "Kriptovalyuta"
+        "Cryptocurrency": "Криптовалюта"
     },
     "Electronic money": {
-        "Electronic money": "Elektron pul"
+        "Electronic money": "Электронные деньги"
     },
     "Select your country": {
-        "Select your country": "Ölkənizi seçin"
+        "Select your country": "Выберите свою страну"
     },
     "You don't have any valid deals": {
-        "You don't have any valid deals": "Hələ uğurlu dəyişmələriniz olmayıb"
+        "You don't have any valid deals": "У вас нет действующих сделок"
     },
     "Offer": {
-        "Offer": "Elan"
+        "Offer": "Сделка"
     },
     "price": {
-        "price": "Qiymət"
+        "price": "цена"
     },
     "Contact": {
-        "Contact": "Əlaqə"
+        "Contact": "Контакт"
     },
     "Start the exchange": {
-        "Start the exchange": "Kripto dəyişməyə başla"
+        "Start the exchange": "Начать обмен"
     },
     "Delete": {
-        "Delete": "Sil"
+        "Delete": "Удалить"
     },
     "Date": {
-        "Date": "Tarih"
+        "Date": "Дата"
     },
     "Hi": {
-        "Hi": "Salam"
+        "Hi": "Привет"
     },
     "Welcome": {
-        "Welcome": "Xoş gəldiniz"
+        "Welcome": "Добро пожаловать"
     },
     "Push notification": {
-        "Push notification": "Bildirişlər"
+        "Push notification": "Уведомление"
     },
     "Registration": {
-        "Registration": "Qeydiyyat"
+        "Registration": "Регистрация"
     },
     "You don't have any tokens to withdraw": {
-        "You don't have any tokens to withdraw": "Çıxartmaq üçün tokeniniz yoxdur"
+        "You don't have any tokens to withdraw": "У вас нет токенов для вывода"
     },
     "You have already registered a nickname. You can't change your nickname!": {
-        "You have already registered a nickname. You can't change your nickname!": "Sizin artıq ad seçtiniz. Adı dəyişdirmək olmaz!"
+        "You have already registered a nickname. You can't change your nickname!": "Вы уже зарегистрировали никнейм. Вы не можете изменить свой никнейм!"
     },
     "Come up with your nickname. From 3 to 15 characters.": {
-        "Come up with your nickname. From 3 to 15 characters": "Adınızı yazın. 3-15 simvol olmalıdır."
+        "Come up with your nickname. From 3 to 15 characters": "Придумайте свой никнейм. От 3 до 15 символов."
     },
     "You don't have any tokens to sell": {
-        "You don't have any tokens to sell": "Satmaq üçün tokeniniz yoxdur"
+        "You don't have any tokens to sell": "У вас нет токенов для продажи"
     },
     "You don't have any offers": {
-        "You don't have any offers": "Hələ elanlarınız yoxdur"
+        "You don't have any offers": "У вас нет предложений"
     },
     "You don't have any transactions": {
-        "You don't have any transactions": "Hələ əməliyyatlarınız yoxdur"
+        "You don't have any transactions": "У вас нет транзакций"
     },
     "Your referrer": {
-        "Your referrer": "Sizi dəvət edən"
+        "Your referrer": "Ваш реферер"
     },
     "Enter the number of tokens you want to send to the user": {
-        "Enter the number of tokens you want to send to the user": "İstifadəçiyə göndərmək istədiyiniz tokenlərin sayını yazın"
+        "Enter the number of tokens you want to send to the user": "Введите количество токенов, которое вы хотите отправить пользователю"
     },
     "You don't have any tokens to send": {
-        "You don't have any tokens to send": "Göndərmək üçün tokeniniz yoxdur"
+        "You don't have any tokens to send": "У вас нет токенов для отправки"
     },
     "This nickname already exists. Select a new nickname.": {
-        "This nickname already exists. Select a new nickname.": "Belə bir ad artıq var. Başqa bir ad seçin."
+        "This nickname already exists. Select a new nickname.": "Этот никнейм уже существует. Выберите новый никнейм."
     },
     "Select the token to send": {
-        "Select the token to send": "Göndəriləcək tokeni seçin"
+        "Select the token to send": "Выберите токен для отправки"
     },
     "The entered value is not a number": {
-        "The entered value is not a number": "Yazdığınız rəqəm deyil"
+        "The entered value is not a number": "Введенное значение не является числом"
     },
     "There are not enough funds on your balance": {
-        "There are not enough funds on your balance": "Balansınızda kifayət qədər vəsait yoxdur"
+        "There are not enough funds on your balance": "На вашем балансе недостаточно средств"
     },
     "You cannot send tokens to yourself": {
-        "You cannot send tokens to yourself": "Özünüzə token göndərə bilməzsiniz"
+        "You cannot send tokens to yourself": "Вы не можете отправлять токены себе"
     },
     "Registering a nickname": {
-        "Registering a nickname": "Ad qeydiyyatı"
+        "Registering a nickname": "Регистрация никнейма"
     },
     "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": {
-        "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": "Everscale şəbəkəsində token dəyişdiricisi olan E-NOT Bursa botu Sizi qarşılayır.\nBot İctimai betadadır."
+        "You are welcomed by the E-NOT Exchange bot, a token exchanger on the Everscale network. The bot is in Public beta.": "Вас приветствует бот E-NOT Exchange, обменник токенов в сети Everscale.\nБот находится в стадии публичного бета-тестирования."
     }
 }
