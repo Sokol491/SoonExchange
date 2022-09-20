@@ -9,5 +9,7 @@
  {"idToken" : 8, "addressToken" : "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1", "access":"0", "symbolToken" : "BRIDGE"},
  {"idToken" : 9, "addressToken" : "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4", "access":"0", "symbolToken" : "EVA"},
  {"idToken" : 10, "addressToken" : "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1", "access":"1", "symbolToken" : "ADA"},
- {"idToken" : 11, "addressToken" : "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99", "access":"0", "symbolToken" : "GRE"}
+ {"idToken" : 11, "addressToken" : "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99", "access":"0", "symbolToken" : "GRE"},
+ {"idToken" : 12, "addressToken" : "0:f787089d81b4d4506f783c611272fedfe5164f784991436491eb619fae13d171", "access":"1", "symbolToken" : "SOL"}
+
 ]
