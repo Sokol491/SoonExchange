@@ -24,7 +24,7 @@
         "idToken": 4,
         "addressToken": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
         "access": 1,
-        "name": "DAI",
+        "name": "Dai Stablecoin",
         "symbolToken": "DAI"
     },
     "5": {
@@ -45,14 +45,14 @@
         "idToken": 7,
         "addressToken": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
         "access": 0,
-        "name": "QUBE",
+        "name": "Qube",
         "symbolToken": "QUBE"
     },
     "8": {
         "idToken": 8,
         "addressToken": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
         "access": 0,
-        "name": "BRIDGE",
+        "name": "Bridge",
         "symbolToken": "BRIDGE"
     },
     "9": {
