@@ -1,23 +1,88 @@
-[
-  {"id":1,"name":"Advcash"},
-  {"id":2,"name":"Payeer"},
-  {"id":3,"name":"QIWI"},
-  {"id":4,"name":"ЮMoney"},
-  {"id":5,"name":"WebMoney"},
-  {"id":6,"name":"ePayments"},
-  {"id":7,"name":"PayPal"},
-  {"id":8,"name":"Payoneer"},
-  {"id":9,"name":"Perfect Money"},
-  {"id":10,"name":"KWT (DeBot)"},
-  {"id":11,"name":"Garantex.io (Exch)"},
-  {"id":12,"name":"WeChat"},
-  {"id":13,"name":"AliPay"},
-  {"id":14,"name":"WePay"},
-  {"id":15,"name":"Phonepay (IND)"},
-  {"id":16,"name":"PayTM (IND)"},
-  {"id":17,"name":"Neteller"},
-  {"id":18,"name":"Skrill"},
-  {"id":19,"name":"Oson (UZ)"},
-  {"id":20,"name":"PayMe (UZ)"},
-  {"id":21,"name":"Click (UZ)"}
-]
+{
+    "PaymentList": {
+        "1": {
+            "id": 1,
+            "name": "Advcash"
+        },
+        "2": {
+            "id": 2,
+            "name": "Payeer"
+        },
+        "3": {
+            "id": 3,
+            "name": "QIWI"
+        },
+        "4": {
+            "id": 4,
+            "name": "ЮMoney"
+        },
+        "5": {
+            "id": 5,
+            "name": "WebMoney"
+        },
+        "6": {
+            "id": 6,
+            "name": "ePayments"
+        },
+        "7": {
+            "id": 7,
+            "name": "PayPal"
+        },
+        "8": {
+            "id": 8,
+            "name": "Payoneer"
+        },
+        "9": {
+            "id": 9,
+            "name": "Perfect Money"
+        },
+        "10": {
+            "id": 10,
+            "name": "KWT (DeBot)"
+        },
+        "11": {
+            "id": 11,
+            "name": "Garantex.io (Exch)"
+        },
+        "12": {
+            "id": 12,
+            "name": "WeChat"
+        },
+        "13": {
+            "id": 13,
+            "name": "AliPay"
+        },
+        "14": {
+            "id": 14,
+            "name": "WePay"
+        },
+        "15": {
+            "id": 15,
+            "name": "Phonepay (IND)"
+        },
+        "16": {
+            "id": 16,
+            "name": "PayTM (IND)"
+        },
+        "17": {
+            "id": 17,
+            "name": "Neteller"
+        },
+        "18": {
+            "id": 18,
+            "name": "Skrill"
+        },
+        "19": {
+            "id": 19,
+            "name": "Oson (UZ)"
+        },
+        "20": {
+            "id": 20,
+            "name": "PayMe (UZ)"
+        },
+        "21": {
+            "id": 21,
+            "name": "Click (UZ)"
+        }
+    }
+}
