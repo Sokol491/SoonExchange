@@ -12,16 +12,16 @@
         "Exchange": "Обмен"
     },
     "Deposit": {
-        "Deposit": "Пополнить"
+        "Deposit": "Пополнение"
     },
     "Withdraw": {
-        "Withdraw": "Вывести"
+        "Withdraw": "Вывод"
     },
     "Check": {
-        "Check": "Чек"
+        "Check": "Мульти-чек"
     },
     "Send": {
-        "Send": "Отправить"
+        "Send": "Отправка"
     },
     "blocked ": {
         "blocked": "заблокировано"
